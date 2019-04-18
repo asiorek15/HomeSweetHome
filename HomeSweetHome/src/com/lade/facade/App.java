@@ -8,6 +8,7 @@ public class App {
 		
 		
 		System.out.println("lalala");
+		System.out.println("lalala");
 		
 		
 		
